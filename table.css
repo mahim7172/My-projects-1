@@ -1,0 +1,83 @@
+.di{
+    border-top:3px  solid rgb(49, 3, 3);
+    padding: 20px;
+    
+}
+.div{
+
+    border-top: 3px solid rgb(183, 181, 181);
+    padding: 20px;
+}
+.hmm{
+    background-color: rgba(254, 255, 211, 0.797);
+    border: 20px solid rgb(51, 43, 41);
+    margin: 10px;
+    padding: 20px;
+    box-sizing:100px  ;
+    width: 50% ;
+    height:min-content ;
+    box-shadow:10px 20px 300px ;
+    
+}
+.name{
+    color: rgb(38, 35, 20);
+    background-color: rgba(158, 148, 148, 0.5);
+    -moz-box-align:  center, ;
+    text-align: center;
+    display: inline-block;
+    border: 10px tomato;
+    margin: 10px red;
+    padding: 10px;
+    
+}
+.she{
+    text-align: center;
+}
+
+#pitha{
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.musa{
+    text-align: left;
+    background-color: rgba(254, 255, 211, 0.797);
+    border: 20px solid rgb(51, 43, 41);
+    margin: 10px;
+    padding: 20px;
+    box-sizing:100px  ;
+    /* width: min-content; */
+    /* height: min-content; */
+    box-shadow:10px 20px 300px ;
+    width: 50%;
+    
+
+}
+.mahim{
+    color: rgb(38, 35, 20);
+    background-color: rgba(158, 148, 148, 0.5);
+    -moz-box-align:  center, ;
+    text-align: center;
+    display: inline-block;
+    border: 10px tomato;
+    margin: 10px red;
+    padding: 10px;
+    width: 50%;
+
+
+}
+
+.ami{
+    display: flex;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: 100%;
+    justify-content: space-between;
+    justify-content: space-around;
+    text-align: left;
+}
+.home{
+ text-align: left;
+
+}
+#submit{
+    width: 100%;
+}
